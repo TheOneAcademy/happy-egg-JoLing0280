@@ -1,0 +1,17 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    text-rendering: geometricPrecision;
+}
+
+.highlights{
+    font-size: 20px;
+    font-weight: 900;
+}
+
+.right-col{
+    font-size: 5vw;
+    color: #666;
+
+    flex-direction: column;
+    justify-content: center;
+}
